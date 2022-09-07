@@ -1,9 +1,8 @@
-import { homeArticles, activitiesTab,activitiesContent, homeFaq, christmasWithChildren } from "./homeObj"
+import { homeArticles, activitiesTab,activitiesContent, homeFaq } from "./homeObj"
 
 export{
     homeArticles,
     activitiesTab,
     homeFaq,
     activitiesContent,
-    christmasWithChildren,
 }
