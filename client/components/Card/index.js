@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Image from "./Image"
 import Heading from "./Heading"
-import Subheading from "./Subheading"
+import SubHeading from "./SubHeading"
 import Paragraph from "./Paragraph"
 
 import { FaAngleDown, FaAngleUp } from "react-icons/fa"
@@ -56,7 +56,7 @@ const ContainerFaq = props => {
 const Card = {
     Image,
     Heading,
-    Subheading,
+    SubHeading,
     Paragraph,
     Head,
     Body,
